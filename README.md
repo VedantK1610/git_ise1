@@ -1,6 +1,6 @@
 # git_ise1 
-1. $ git config --global user.name "VedantK1610" 
-   $ git config --global user.email "vedkulkarni243@gmail.com"
+1. $ git config --global user.name "samplename" 
+   $ git config --global user.email "sample_email"
 
 2. to check 
 	$ git config --list 
