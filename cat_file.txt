@@ -1,0 +1,5 @@
+1.press cat>filename.txt to create file
+2.press "vi filename.txt" to enter in vi mode
+3.press "i" to enter in editor mode and 'esc' to exit ediotr mode
+4.when exited editor mode press 'o' to move on new line
+5.press 'ZZ' to save and exit vi editor
